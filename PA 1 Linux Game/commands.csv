@@ -1,0 +1,30 @@
+pwd,prints the path of the working directory, starting from the root
+mkdir,allows the user to ucreate directories
+cp,used to copy file or group of files or directory
+scp,used to copy file(s) between servers ina secure way
+gcc,GNU Compiler Collections is used to compile mainly C and C++ language
+kill,used to terminate processes manually. kill command sends a signal to a process which terminates the process
+chmod,used to change the access mode of a file
+chown,used to change the file Owner or group
+echo,used to display line of text/string that are passed as an argument
+find,sed to find files and directories and perform subsequent operations on them
+ls,used to list files or directories
+rmdir,used to remove empty directories from the filesystem in Linux
+mv,used to move one or more files or directories from one place to another in file system like UNIX
+man,allows users to view the reference manuals of a command or utility run in the terminal
+make,utility for building and maintaining groups of programs
+top,provides a dynamic real-time view of the running system
+cat,reads data from file and gives their content as output. It helps us to create, view, concatenate files
+df,used to display information related to file systems about total space and available space
+exit,used to exit the shell where it is currently running
+finger,it is a user information lookup command which gives details of all the users logged in
+cd,known as change directory command. It is used to change current working directory
+rm,used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX
+ssh,protocol used to securely connect to a remote server/system
+g++,used for preprocessing, compilation, assembly and linking of source code to generate an executable file
+ps,used to list the currently running processes and their PIDs along with some other information depends on different options
+who,used to get information about currently logged in user on to system
+alias,instructs the shell to replace one string with another string while executing the commands
+grep,searches a file for a particular pattern of characters, and displays all lines that contain that pattern
+clear,used to clear the terminal screen
+free,displays the total amount of free space available along with the amount of memory used and swap memory in the system, and also the buffers used by the kernel
