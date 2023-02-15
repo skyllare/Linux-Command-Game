@@ -9,7 +9,7 @@ In this game you are prompted with a list of options. Once you chose to play gam
    ```sh
    git clone https://github.com/skyllare/Linux-Command-Game.git
    ```
-2. Run code using a compiler
+2. Run code using an IDE
 
 ### Usage
 This game was made with the intention to learn commands for a linux terminal. Using this code, you could create other text based vocabulary games by just changing the commands in the .csv file
